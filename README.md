@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓 I graduated from BSACIST with a Bachelor of Computer Application in Cloud Technology and Information Security.
-
+ 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thulash&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thulash&theme=default" height="160"/>
+</p>
 
 📫 Give me a shoutout at thulash297@gmail.com
